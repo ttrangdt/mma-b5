@@ -5,3 +5,5 @@ web-build/
 .idea/
 *.log
 *.pptx
+*.db
+*.db-journal
