@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Contact Management - Enhanced SQLite",
+    "slug": "contact-management-sqlite",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#1e293b"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1e293b"
+      }
+    },
+    "web": {
+      "favicon": "https://img.icons8.com/color/48/contacts.png"
+    }
+  }
+}
